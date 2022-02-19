@@ -1,0 +1,16 @@
+.navBarDiv {
+    padding: 2rem;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 4rem;
+    width: 100%;
+}
+
+.navLinks {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.75rem;
+    gap: 2rem;
+    list-style: none;
+}
